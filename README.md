@@ -1,4 +1,6 @@
 #A [Metalsmith](http://metalsmith.io) Tutorial Repo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/metalsmith-demo.svg)](https://greenkeeper.io/)
 This is the repo for the tutorial over on my [blog](http://robinthrift.com).
 
 
